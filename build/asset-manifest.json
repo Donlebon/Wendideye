@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/react-blog-practice/static/css/main.fec4dcce.css",
-    "main.js": "/react-blog-practice/static/js/main.8f2ead56.js",
-    "static/js/787.b13fdd03.chunk.js": "/react-blog-practice/static/js/787.b13fdd03.chunk.js",
-    "static/media/logo.svg": "/react-blog-practice/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-blog-practice/index.html",
-    "main.fec4dcce.css.map": "/react-blog-practice/static/css/main.fec4dcce.css.map",
-    "main.8f2ead56.js.map": "/react-blog-practice/static/js/main.8f2ead56.js.map",
-    "787.b13fdd03.chunk.js.map": "/react-blog-practice/static/js/787.b13fdd03.chunk.js.map"
+    "main.css": "/Donlebon/Wendideye/static/css/main.f5c1a325.css",
+    "main.js": "/Donlebon/Wendideye/static/js/main.64c1aba7.js",
+    "index.html": "/Donlebon/Wendideye/index.html",
+    "static/media/delete.svg": "/Donlebon/Wendideye/static/media/delete.3270f2c93c8c138fa6cc69fbd18f985e.svg",
+    "main.f5c1a325.css.map": "/Donlebon/Wendideye/static/css/main.f5c1a325.css.map",
+    "main.64c1aba7.js.map": "/Donlebon/Wendideye/static/js/main.64c1aba7.js.map"
   },
   "entrypoints": [
-    "static/css/main.fec4dcce.css",
-    "static/js/main.8f2ead56.js"
+    "static/css/main.f5c1a325.css",
+    "static/js/main.64c1aba7.js"
   ]
 }
