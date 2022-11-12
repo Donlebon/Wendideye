@@ -15,7 +15,7 @@ export default function Navbar(){
 
     return (
     <div className = "nav-container">
-        <Link to = "/" >
+        <Link to = "/Wendideye/" >
             <h1 className = "title">Wendideye</h1>
         </Link>
         <form onSubmit = {handleSubmit} className = "search-container">
