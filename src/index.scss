@@ -267,3 +267,137 @@
     margin-top: 1em;
     margin-bottom: 1em;
 }
+
+@media(max-width: 1000px){
+
+    .nav-container{
+        flex-direction: column;
+    }
+
+    .search-container{
+        margin-bottom: 1.2em;
+        margin-top: 1.2em;
+
+        .search{
+            width: 30em;
+        }
+    }
+
+}
+
+@media(max-width: 700px){
+    .item-container{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+        align-items: center;
+        justify-items: center;
+        text-align: center;
+        padding: 1.7em 0;
+        box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+
+        .purchase{
+            grid-column: 2;
+            grid-row: 1;
+
+        }
+        
+        .renew{
+            grid-column: 3;
+        }
+
+        .warranty{
+            grid-column: 2;
+            grid-row: 3;
+        }
+
+        .item-warranty{
+            grid-column: 2;
+            grid-row: 4;
+        }
+
+        .notes{
+            grid-column: 3;
+            grid-row: 3;
+        }
+
+        .item-notes{
+            grid-column: 3;
+            grid-row: 4;
+        }
+
+        .trash{
+            grid-column: 1;
+            grid-row: 3;
+        }
+      
+        .product{
+            grid-column: 1;
+            grid-row: 2;
+        }
+
+       .pdate{
+        grid-row: 2;
+        grid-column: 2;
+       }
+
+       .rdate{
+        grid-row: 2;
+        grid-column: 3;
+       }
+
+       .cost{
+        grid-row: 3;
+        grid-column: 2;
+       }
+
+       .warranty{
+        grid-row: 3;
+        grid-column: 3;
+       }
+
+       .item-cost{
+        grid-column: 2;
+        grid-row: 4;
+       }
+
+       .notes{
+        grid-column: 3;
+        grid-row: 3;
+       }
+
+       .notes{
+        grid-column: 2;
+        grid-row: 5;
+       }
+
+       .item-notes{
+        grid-column: 2;
+        grid-row: 6;
+       }
+
+       .item-warranty{
+        grid-column: 3;
+        grid-row: 4;
+       }
+
+    }
+
+}
+
+
+
+// <h2 className = "purchase">Purchased</h2>
+// <h2 className = "renew">Renew/Return</h2>
+// <h2 className = "cost">Cost</h2>
+// <h2 className = "warranty">Warranty</h2>
+// <h2 className = "notes">Notes</h2>
+// <Link to = {`/products/${item.id}`}>
+//     <h2 className = "seemore">See More...</h2>
+// </Link>
+// <p className = "product">{item.product}</p>
+// <p className = "pdate">{item.purchase}</p>
+// <p className = "rdate">{item.renew}</p>
+// <p className = "item-cost">{item.cost}</p>
+// <p className = "item-warranty">{item.warranty}</p>
+// <p className = "item-notes">{item.notes}</p>
