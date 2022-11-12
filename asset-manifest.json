@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Donlebon/Wendideye/static/css/main.f5c1a325.css",
+    "main.js": "/Donlebon/Wendideye/static/js/main.64c1aba7.js",
+    "index.html": "/Donlebon/Wendideye/index.html",
+    "static/media/delete.svg": "/Donlebon/Wendideye/static/media/delete.3270f2c93c8c138fa6cc69fbd18f985e.svg",
+    "main.f5c1a325.css.map": "/Donlebon/Wendideye/static/css/main.f5c1a325.css.map",
+    "main.64c1aba7.js.map": "/Donlebon/Wendideye/static/js/main.64c1aba7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5c1a325.css",
+    "static/js/main.64c1aba7.js"
+  ]
+}
