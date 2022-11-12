@@ -15,7 +15,7 @@ export default function App(){
       <Navbar />
       <Switch>
 
-      <Route exact path = "/Wendideye">
+      <Route exact path = "/Wendideye/">
           <Home />
       </Route>
 
