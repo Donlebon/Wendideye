@@ -22,7 +22,7 @@ export default function Create(){
 
         try {
             await projectFirestore.collection('products').add(pieces)
-            history.push('/')
+            history.push('/Wendideye/')
         } catch (err){
             console.log(err)
         }
