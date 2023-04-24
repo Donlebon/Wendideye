@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Wendideye/static/css/main.f5c1a325.css",
-    "main.js": "/Wendideye/static/js/main.0086dc35.js",
+    "main.js": "/Wendideye/static/js/main.91802b3b.js",
     "index.html": "/Wendideye/index.html",
     "static/media/delete.svg": "/Wendideye/static/media/delete.3270f2c93c8c138fa6cc69fbd18f985e.svg",
     "main.f5c1a325.css.map": "/Wendideye/static/css/main.f5c1a325.css.map",
-    "main.0086dc35.js.map": "/Wendideye/static/js/main.0086dc35.js.map"
+    "main.91802b3b.js.map": "/Wendideye/static/js/main.91802b3b.js.map"
   },
   "entrypoints": [
     "static/css/main.f5c1a325.css",
-    "static/js/main.0086dc35.js"
+    "static/js/main.91802b3b.js"
   ]
 }
