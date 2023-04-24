@@ -16,7 +16,7 @@ export default function Navbar(){
     return (
     <div className = "nav-container">
         <Link to = "/Wendideye/" >
-            <h1 className = "title">Item Trackerss</h1>
+            <h1 className = "title">Item Tracker</h1>
         </Link>
         <form onSubmit = {handleSubmit} className = "search-container">
             <input onChange = {(e) => setQuery(e.target.value)} className = "search" type = "text" placeholder = "Search for an Item"></input>
